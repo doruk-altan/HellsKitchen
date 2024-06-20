@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cce05219b05b64768beca56d4523c283
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cuttingCounter: {instanceID: 0}
+  - barImage: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
